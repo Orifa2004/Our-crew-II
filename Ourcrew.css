@@ -19,7 +19,7 @@ html{
 }
 
 body{
-    background-image: url("/My\ Images/Background_updated.png");
+    background-image: url("/new_images/Background_updated.png");
     background-color: transparent;
     font-family: inherit;
     font-size:clamp(16px, 2.2vh, 24px);
