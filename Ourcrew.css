@@ -163,7 +163,13 @@ figcaption{
     font-size: 10px;
     position: relative;
     top: 30px;
-    left: 325px;
+    left: 325px; 
+}
+
+.button{
+    width: 100%;
+    display: flex;
+    align-items: center;
 }
 
 button:hover{
